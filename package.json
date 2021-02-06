@@ -1,0 +1,18 @@
+{
+  "name": "investec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "factors": "ts-node src/factors.ts",
+    "address": "ts-node src/address.ts"
+  },
+  "keywords": [],
+  "author": "Lebogang Mabala <lebogang.midas@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "~14.14.22",
+    "ts-node": "~9.1.1",
+    "typescript": "~4.1.3"
+  }
+}
